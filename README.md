@@ -21,20 +21,8 @@ Une fois les fichier clonés, éxecuter la commande suivante :
 yarn
 ~~~
 
-ou
-
-~~~
-npm install
-~~~
-
 Une commande NodeJS est configuré pour lancer [Serve](https://github.com/vercel/serve#readme) : 
 
 ~~~
 yarn dev
-~~~
-
-ou
-
-~~~
-npm dev
 ~~~
